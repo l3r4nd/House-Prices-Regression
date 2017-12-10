@@ -4,7 +4,7 @@
 
 **I highly encourage you to use [NbViewer][1] to see the Code along with Visualizations.**
 
-[1]: https://nbviewer.jupyter.org/github/l3r4nd/House-Prices-Regression/blob/master/House%20Prices_final.ipynb
+[1]: https://nbviewer.jupyter.org/github/l3r4nd/House-Prices-Regression/blob/cb623ef9b89277502a7eec19e63311bbb33ba405/House%20Prices_final.ipynb
 
 ## This Notebook presents:
 
